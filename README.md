@@ -1,4 +1,4 @@
-# [Kata Seeds](https://github.com/kata-seeds): Ruby + MiniTest
+# [Kata Seeds](http://kata-seeds.github.io): Ruby + MiniTest
 [![Build Status](https://travis-ci.org/kata-seeds/ruby-minitest-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/ruby-minitest-seed)
 
 ## Getting Started
